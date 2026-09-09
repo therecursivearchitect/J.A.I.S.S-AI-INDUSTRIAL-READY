@@ -1,0 +1,7 @@
+# Protect proprietary core execution binaries and raw artifacts
+*.bin
+*.dat
+/telemetry/raw_*
+*.log
+.env
+/.git/

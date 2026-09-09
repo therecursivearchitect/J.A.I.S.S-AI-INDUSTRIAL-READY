@@ -1,0 +1,6 @@
+"Model","LatencyMs","Architecture","Status"
+"J.A.I.S.S (Sovereign)","43","True-FHE / Biomimetic","SUCCESS"
+"Grok (xAI)","703","Cloud API / Plaintext","SUCCESS"
+"Gemini (Google)","538","Cloud API / Plaintext","SUCCESS"
+"ChatGPT (OpenAI)","671","Cloud API / Plaintext","SUCCESS"
+"Copilot (Microsoft)","538","Cloud API / Plaintext","SUCCESS"

@@ -1,0 +1,9 @@
+# Autonomous Binary Execution Engine
+
+## Overview
+The Autonomous Binary Execution Engine is engineered to operate natively within the local environment (`C:\J.A.I.S.S`). It executes industrial-grade binary intelligence tasks, local system refactoring, and secure script execution entirely on local hardware without reliance on external cloud APIs or third-party server infrastructure.
+
+## Operational Workflow
+1. **Local Ingestion:** Inputs and automation triggers are received through hardened PowerShell subsystem integration.
+2. **Deterministic Processing:** Execution is handled via custom binary AI models governed by strict zero-drift assertion checks (`SAI-OS_HARDENED`).
+3. **Session Management:** Context-aware persistence engines manage local memory state and automated directory tracking back to the core root architecture.
